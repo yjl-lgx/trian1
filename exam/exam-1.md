@@ -62,5 +62,49 @@
 ![](41.png )  
 ![](42.png )  
 ![](43.png )  
-   
+
+# 三 给Centos7配置静态ip以及使用xshell远程连接Centos  
+- 1：首先查看网络管理器服务的状态：使用以下命令 
+<table><tr><td bgcolor=#7F>
+<font color=white size=2 face=“黑体”>$ systemctl status NetworkManager.service</font> 
+</td></tr></table> 
+- 2：再查看使用的是那个网络接口  
+<table><tr><td bgcolor=#7F>
+<font color=white size=2 face=“黑体”>$ nmcli dev status</font> 
+</td></tr></table> 
+![](50.png )  
+- 如果某个接口的nmcli的输出结果是“connected”（如本例中的ens33），  
+- 这就是说该接口受网络管理器管理。你可以为它配置一个静态IP地址。  
+- 3：入/etc/sysconfig/network-scripts目录，找到该接口的配置文件（ifcfg-ens33这是自己的接口）。  
+<table><td bgcolor=#7F>
+<font color=white size=2 face=“黑体”>$ vi /etc/sysconfig/network-scripts/ifcfg-ens33</font>
+</td></table>
+- 4：打开后修改如下  
+<table><td bgcolor=#7F>
+<font color=white size=2 face=“黑体”>$ vi /etc/sysconfig/network-scripts/ifcfg-ens33
+BOOTPROTO="static" #dhcp改为static     
+ONBOOT="yes" #开机启用本配置  
+IPADDR=192.168.0.15 #静态IP  
+GATEWAY=192.168.0.1 #默认网关  
+NETMASK=255.255.255.0 #子网掩码  
+DNS1=114.114.114.114 #DNS 配置  
+</font></td></table>
+- “NM_CONTROLLED=no”表示该接口将通过该配置文件进行设置，而不是通过网络管理器进行管理。  
+- “ONBOOT=yes”告诉我们，系统将在启动时开启该接口。  
+- 5：保存退出后重启网络  
+<table><tr><td bgcolor=#7F>
+- <font color=white size=2 face=“黑体”>$ service network restart</font>
+</td></tr></table>
+- 6：查看改动后的效果，ip addr 命令查看网络信息  
+![](51.png )  
+
+# 四 配置完成下面进行Xhellk连接  
+- 1：打开Xshell新建一个链接（如图）  
+![](52.png )   
+- 2：输入在Centos上配置的IP（如图）  
+![](53.png )  
+- 3：输入用户名以及密码(centos)  
+![](54.png )  
+- 4：点击完成->链接验证一下是不是链接上了自己的centos  
+![](55.png )  
 ### End
