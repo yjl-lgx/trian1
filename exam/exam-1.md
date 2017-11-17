@@ -1,31 +1,31 @@
-## **ÔÚ¸öÈËµçÄÔÊ¹ÓÃvmware°²×°CentOSºÍUbuntuÐéÄâ»ú**
-Ê×ÏÈÔÚ°Ù¶ÈÉÏÕÒµ½vmwareÏÂÔØµ½×Ô¼ºµçÄÔ£¬²¢°´ÕÕÌáÊ¾°²×°£¬ÔÚ°Ù¶ÈËÑË÷¶ÔÓ¦µÄÐí¿ÉÃÜÔ¿£¬×¢²á¼¤»î¡£
-# Ò» °²×°centos7
-- 1£º½ÓÏÂÀ´ÔÚcentos¹ÙÍøÕÒµ½CentOS-7¾µÏñ°²×°°ü£»
-- 2£º´ò¿ªVMware Workstation £¬µã»÷²Ëµ¥¡°ÎÄ¼þ¡±Ñ¡Ïî£¬Ñ¡Ôñ¡±ÐÂ½¨ÐéÄâ»ú¡±£»
-- 3£ºÑ¡Ôñ×Ô¶¨Òå£¬È»ºóÑ¡Ôñ×Ô¼ºµÄvmware°æ±¾£»
-- 4£ºÈ»ºóÑ¡ÔñÎ»ÖÃ²¢Ñ¡ÔñÉÔºó°²×°;
-- 5£ºÑ¡Ôñ°æ±¾£¬ÒÔ¼°¿Í·þ²Ù×ÅÏµÍ³£¬È»ºóÑ¡ÔñÃû×ÖÒÔ¼°°²×°Î»ÖÃ£»
-- 6£ºÉèÖÃÐéÄâ»ú´¦ÀíÆ÷ÊýÁ¿£¬¿ÉÒÔÄ¬ÈÏ£»
-- 7£ºÐÞ¸ÄÐéÄâ»úÄÚ´æÎª2G£»
-- 8£ºÑ¡ÔñÍøÂçÀàÐÍ£¬ÎÒÑ¡ÔñÊ¹ÓÃÇÅ½Ó£»
-- 9£ºÈçÏÂÍ¼²Ù×÷  
+## **åœ¨ä¸ªäººç”µè„‘ä½¿ç”¨vmwareå®‰è£…CentOSå’ŒUbuntuè™šæ‹Ÿæœº**
+é¦–å…ˆåœ¨ç™¾åº¦ä¸Šæ‰¾åˆ°vmwareä¸‹è½½åˆ°è‡ªå·±ç”µè„‘ï¼Œå¹¶æŒ‰ç…§æç¤ºå®‰è£…ï¼Œåœ¨ç™¾åº¦æœç´¢å¯¹åº”çš„è®¸å¯å¯†é’¥ï¼Œæ³¨å†Œæ¿€æ´»ã€‚
+# ä¸€ å®‰è£…centos7
+- 1ï¼šæŽ¥ä¸‹æ¥åœ¨centoså®˜ç½‘æ‰¾åˆ°CentOS-7é•œåƒå®‰è£…åŒ…ï¼›
+- 2ï¼šæ‰“å¼€VMware Workstation ï¼Œç‚¹å‡»èœå•â€œæ–‡ä»¶â€é€‰é¡¹ï¼Œé€‰æ‹©â€æ–°å»ºè™šæ‹Ÿæœºâ€ï¼›
+- 3ï¼šé€‰æ‹©è‡ªå®šä¹‰ï¼Œç„¶åŽé€‰æ‹©è‡ªå·±çš„vmwareç‰ˆæœ¬ï¼›
+- 4ï¼šç„¶åŽé€‰æ‹©ä½ç½®å¹¶é€‰æ‹©ç¨åŽå®‰è£…;
+- 5ï¼šé€‰æ‹©ç‰ˆæœ¬ï¼Œä»¥åŠå®¢æœæ“ç€ç³»ç»Ÿï¼Œç„¶åŽé€‰æ‹©åå­—ä»¥åŠå®‰è£…ä½ç½®ï¼›
+- 6ï¼šè®¾ç½®è™šæ‹Ÿæœºå¤„ç†å™¨æ•°é‡ï¼Œå¯ä»¥é»˜è®¤ï¼›
+- 7ï¼šä¿®æ”¹è™šæ‹Ÿæœºå†…å­˜ä¸º2Gï¼›
+- 8ï¼šé€‰æ‹©ç½‘ç»œç±»åž‹ï¼Œæˆ‘é€‰æ‹©ä½¿ç”¨æ¡¥æŽ¥ï¼›
+- 9ï¼šå¦‚ä¸‹å›¾æ“ä½œ  
 ![](1.png )  
 ![](2.png )  
 ![](3.png )  
 ![](4.png )  
 ![](5.png )  
-- 10£º È»ºó´´½¨Íê³É µã»÷¿ªÆôÐéÄâ»ú£¨Èô³öÏÖÒÔÏÂ´íÎó£©  
+- 10ï¼š ç„¶åŽåˆ›å»ºå®Œæˆ ç‚¹å‡»å¼€å¯è™šæ‹Ÿæœºï¼ˆè‹¥å‡ºçŽ°ä»¥ä¸‹é”™è¯¯ï¼‰  
 ![](6.png )  
 ![](7.png )  
 ![](8.png )  
-- 11£º¿ªÆôºó½øÈë°²×°½çÃæ£¬Ñ¡ÔñÏµÍ³°²×°£¬µã»÷¼üÅÌ Enter¼üºó¼ÌÐø  
+- 11ï¼šå¼€å¯åŽè¿›å…¥å®‰è£…ç•Œé¢ï¼Œé€‰æ‹©ç³»ç»Ÿå®‰è£…ï¼Œç‚¹å‡»é”®ç›˜ Enteré”®åŽç»§ç»­  
 ![](9.png )  
-- 12£ºµÈ´ý°²×°ºóÑ¡ÔñÓïÑÔ£¬Ñ¡Ôñ  
+- 12ï¼šç­‰å¾…å®‰è£…åŽé€‰æ‹©è¯­è¨€ï¼Œé€‰æ‹©  
 ![](10.png )  
-- 13£ºÈ»ºóÑ¡ÔñÐèÒªµÄÈí¼þ°²×°  
+- 13ï¼šç„¶åŽé€‰æ‹©éœ€è¦çš„è½¯ä»¶å®‰è£…  
 ![](picture\11.png )  
-- 14£ºÈ»ºó½øÐÐÅäÖÃÑ¡Ôñ×îÐ¡ÏµÍ³µÄÅäÖÃ  
+- 14ï¼šç„¶åŽè¿›è¡Œé…ç½®é€‰æ‹©æœ€å°ç³»ç»Ÿçš„é…ç½®  
 ![](12.png )  
 ![](13.png )  
 ![](14.png )  
@@ -44,10 +44,10 @@
 ![](27.png )  
 ![](28.png )  
 ![](29.png )  
-- 15£º×îºóÑ¡Ôñ½ÓÊÜ¸ü¸Ä  
+- 15ï¼šæœ€åŽé€‰æ‹©æŽ¥å—æ›´æ”¹  
 
-# ¶þ UbuntuµÄ°²×°
-- 1£º½øÈë£ºhttp://www.ubuntu.com  
+# äºŒ Ubuntuçš„å®‰è£…
+- 1ï¼šè¿›å…¥ï¼šhttp://www.ubuntu.com  
 ![](30.png )  
 ![](31.png )  
 ![](32.png )  
@@ -63,50 +63,45 @@
 ![](42.png )  
 ![](43.png )  
 
-# Èý ¸øCentos7ÅäÖÃ¾²Ì¬ipÒÔ¼°Ê¹ÓÃxshellÔ¶³ÌÁ¬½ÓCentos  
-- 1£ºÊ×ÏÈ²é¿´ÍøÂç¹ÜÀíÆ÷·þÎñµÄ×´Ì¬£ºÊ¹ÓÃÒÔÏÂÃüÁî 
+# ä¸‰ ç»™Centos7é…ç½®é™æ€ipä»¥åŠä½¿ç”¨xshellè¿œç¨‹è¿žæŽ¥Centos  
+- 1ï¼šé¦–å…ˆæŸ¥çœ‹ç½‘ç»œç®¡ç†å™¨æœåŠ¡çš„çŠ¶æ€ï¼šä½¿ç”¨ä»¥ä¸‹å‘½ä»¤ 
+- $ systemctl status NetworkManager.service  
+- 2ï¼šå†æŸ¥çœ‹ä½¿ç”¨çš„æ˜¯é‚£ä¸ªç½‘ç»œæŽ¥å£  
+![](50.png )  <br>
 <table><tr><td bgcolor=#00>
-<font color=white size=2 face=¡°ºÚÌå¡±>$ systemctl status NetworkManager.service</font> 
-</td></tr></table> 
-- 2£ºÔÙ²é¿´Ê¹ÓÃµÄÊÇÄÇ¸öÍøÂç½Ó¿Ú  
-- 
-- ![](50.png )  
-<table><tr><td bgcolor=#00>
-<font color=white size=2 face=¡°ºÚÌå¡±>$ nmcli dev status</font> 
+<font color=white size=2 face=â€œé»‘ä½“â€>$ nmcli dev status</font> 
 </td></tr></table>  
-- Èç¹ûÄ³¸ö½Ó¿ÚµÄnmcliµÄÊä³ö½á¹ûÊÇ¡°connected¡±£¨Èç±¾ÀýÖÐµÄens33£©£¬  
-- Õâ¾ÍÊÇËµ¸Ã½Ó¿ÚÊÜÍøÂç¹ÜÀíÆ÷¹ÜÀí¡£Äã¿ÉÒÔÎªËüÅäÖÃÒ»¸ö¾²Ì¬IPµØÖ·¡£  
-- 3£º½øÈë/etc/sysconfig/network-scriptsÄ¿Â¼£¬ÕÒµ½¸Ã½Ó¿ÚµÄÅäÖÃÎÄ¼þ£¨ifcfg-ens33ÕâÊÇ×Ô¼ºµÄ½Ó¿Ú£©¡£  
+- å¦‚æžœæŸä¸ªæŽ¥å£çš„nmcliçš„è¾“å‡ºç»“æžœæ˜¯â€œconnectedâ€ï¼ˆå¦‚æœ¬ä¾‹ä¸­çš„ens33ï¼‰ï¼Œ  
+- è¿™å°±æ˜¯è¯´è¯¥æŽ¥å£å—ç½‘ç»œç®¡ç†å™¨ç®¡ç†ã€‚ä½ å¯ä»¥ä¸ºå®ƒé…ç½®ä¸€ä¸ªé™æ€IPåœ°å€ã€‚  
+- 3ï¼šè¿›å…¥/etc/sysconfig/network-scriptsç›®å½•ï¼Œæ‰¾åˆ°è¯¥æŽ¥å£çš„é…ç½®æ–‡ä»¶ï¼ˆifcfg-ens33è¿™æ˜¯è‡ªå·±çš„æŽ¥å£ï¼‰ã€‚  
 <table><td bgcolor=#7F>
-<font color=white size=2 face=¡°ºÚÌå¡±>$ vi /etc/sysconfig/network-scripts/ifcfg-ens33</font>
+<font color=white size=2 face=â€œé»‘ä½“â€>$ vi /etc/sysconfig/network-scripts/ifcfg-ens33</font>
 </td></table>
-- 4£º´ò¿ªºóÐÞ¸ÄÈçÏÂ  
+- 4ï¼šæ‰“å¼€åŽä¿®æ”¹å¦‚ä¸‹  
 <pre><table><td bgcolor=#00> <font color=white size=2 >
-/etc/sysconfig/network-scripts/ifcfg-ens33  
-BOOTPROTO="static" #dhcp¸ÄÎªstatic  
-ONBOOT="yes" #¿ª»úÆôÓÃ±¾ÅäÖÃ  
-IPADDR=192.168.0.15 #¾²Ì¬IP   
-GATEWAY=192.168.0.1 #Ä¬ÈÏÍø¹Ø  
-NETMASK=255.255.255.0 #×ÓÍøÑÚÂë   
-NS1=114.114.114.114 #DNS ÅäÖÃ 
+/etc/sysconfig/network-scripts/ifcfg-ens33 <br> 
+BOOTPROTO="static" #dhcpæ”¹ä¸ºstatic  <br>
+ONBOOT="yes" #å¼€æœºå¯ç”¨æœ¬é…ç½®  <br>
+IPADDR=192.168.0.15 #é™æ€IP   <br>
+GATEWAY=192.168.0.1 #é»˜è®¤ç½‘å…³  <br>
+NETMASK=255.255.255.0 #å­ç½‘æŽ©ç    <br>
+NS1=114.114.114.114 #DNS é…ç½® <br>
 </td></table></pre>
-- ¡°NM_CONTROLLED=no¡±±íÊ¾¸Ã½Ó¿Ú½«Í¨¹ý¸ÃÅäÖÃÎÄ¼þ½øÐÐÉèÖÃ£¬¶ø²»ÊÇÍ¨¹ýÍøÂç¹ÜÀíÆ÷½øÐÐ¹ÜÀí¡£  
-- ¡°ONBOOT=yes¡±¸æËßÎÒÃÇ£¬ÏµÍ³½«ÔÚÆô¶¯Ê±¿ªÆô¸Ã½Ó¿Ú¡£  
-- 5£º±£´æÍË³öºóÖØÆôÍøÂç  
-<table><tr><td bgcolor=#00>
-- <font color=white size=2 face=¡°ºÚÌå¡±>$ service network restart</font>
-</td></tr></table>
-- 6£º²é¿´¸Ä¶¯ºóµÄÐ§¹û£¬ip addr ÃüÁî²é¿´ÍøÂçÐÅÏ¢  
-- 
-- ![](51.png )  
-  
-# ËÄ ÅäÖÃÍê³ÉÏÂÃæ½øÐÐXhellkÁ¬½Ó  
-- 1£º´ò¿ªXshellÐÂ½¨Ò»¸öÁ´½Ó£¨ÈçÍ¼£©  
+- â€œNM_CONTROLLED=noâ€è¡¨ç¤ºè¯¥æŽ¥å£å°†é€šè¿‡è¯¥é…ç½®æ–‡ä»¶è¿›è¡Œè®¾ç½®ï¼Œè€Œä¸æ˜¯é€šè¿‡ç½‘ç»œç®¡ç†å™¨è¿›è¡Œç®¡ç†ã€‚  
+- â€œONBOOT=yesâ€å‘Šè¯‰æˆ‘ä»¬ï¼Œç³»ç»Ÿå°†åœ¨å¯åŠ¨æ—¶å¼€å¯è¯¥æŽ¥å£ã€‚  
+- 5ï¼šä¿å­˜é€€å‡ºåŽé‡å¯ç½‘ç»œ  
+<table><td bgcolor=#7F>
+<font color=white size=2 face=â€œé»‘ä½“â€>$ service network restart</font>
+</td></table>
+- 6ï¼šæŸ¥çœ‹æ”¹åŠ¨åŽçš„æ•ˆæžœï¼Œip addr å‘½ä»¤æŸ¥çœ‹ç½‘ç»œIPæ˜¯å¦æ˜¯192.168.0.15è¿›è¡ŒéªŒè¯
+ 
+# å›› é…ç½®å®Œæˆä¸‹é¢è¿›è¡ŒXhellkè¿žæŽ¥  
+- 1ï¼šæ‰“å¼€Xshellæ–°å»ºä¸€ä¸ªé“¾æŽ¥ï¼ˆå¦‚å›¾ï¼‰  
 ![](52.png )   
-- 2£ºÊäÈëÔÚCentosÉÏÅäÖÃµÄIP£¨ÈçÍ¼£©  
+- 2ï¼šè¾“å…¥åœ¨Centosä¸Šé…ç½®çš„IPï¼ˆå¦‚å›¾ï¼‰  
 ![](53.png )  
-- 3£ºÊäÈëÓÃ»§ÃûÒÔ¼°ÃÜÂë(centos)  
+- 3ï¼šè¾“å…¥ç”¨æˆ·åä»¥åŠå¯†ç (centos)  
 ![](54.png )  
-- 4£ºµã»÷Íê³É->Á´½ÓÑéÖ¤Ò»ÏÂÊÇ²»ÊÇÁ´½ÓÉÏÁË×Ô¼ºµÄcentos  
+- 4ï¼šç‚¹å‡»å®Œæˆ->é“¾æŽ¥éªŒè¯ä¸€ä¸‹æ˜¯ä¸æ˜¯é“¾æŽ¥ä¸Šäº†è‡ªå·±çš„centos  
 ![](55.png )  
 ### End
