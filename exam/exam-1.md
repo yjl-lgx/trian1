@@ -69,6 +69,7 @@
 <font color=white size=2 face=“黑体”>$ systemctl status NetworkManager.service</font> 
 </td></tr></table> 
 - 2：再查看使用的是那个网络接口  
+- 
 - ![](50.png )  
 <table><tr><td bgcolor=#00>
 <font color=white size=2 face=“黑体”>$ nmcli dev status</font> 
@@ -96,6 +97,7 @@ NS1=114.114.114.114 #DNS 配置
 - <font color=white size=2 face=“黑体”>$ service network restart</font>
 </td></tr></table>
 - 6：查看改动后的效果，ip addr 命令查看网络信息  
+- 
 - ![](51.png )  
   
 # 四 配置完成下面进行Xhellk连接  
