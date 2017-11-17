@@ -81,14 +81,14 @@
 </td></table>
 - 4：打开后修改如下  
 <table><td bgcolor=#7F>
-<font color=white size=2 face=“黑体”>$ vi /etc/sysconfig/network-scripts/ifcfg-ens33
-BOOTPROTO="static" #dhcp改为static     
-ONBOOT="yes" #开机启用本配置  
-IPADDR=192.168.0.15 #静态IP  
-GATEWAY=192.168.0.1 #默认网关  
-NETMASK=255.255.255.0 #子网掩码  
-DNS1=114.114.114.114 #DNS 配置  
-</font></td></table>
+<font color=white size=2 face=“黑体”>$ vi /etc/sysconfig/network-scripts/ifcfg-ens33 </font>  
+<font color=white size=2 face=“黑体”>BOOTPROTO="static" #dhcp改为static </font>  
+<font color=white size=2 face=“黑体”>ONBOOT="yes" #开机启用本配置 </font>  
+<font color=white size=2 face=“黑体”>IPADDR=192.168.0.15 #静态IP </font>  
+<font color=white size=2 face=“黑体”>GATEWAY=192.168.0.1 #默认网关 </font>  
+<font color=white size=2 face=“黑体”>NETMASK=255.255.255.0 #子网掩码 </font>   
+<font color=white size=2 face=“黑体”>DNS1=114.114.114.114 #DNS 配置 </font>
+</td></table> 
 - “NM_CONTROLLED=no”表示该接口将通过该配置文件进行设置，而不是通过网络管理器进行管理。  
 - “ONBOOT=yes”告诉我们，系统将在启动时开启该接口。  
 - 5：保存退出后重启网络  
@@ -97,7 +97,7 @@ DNS1=114.114.114.114 #DNS 配置
 </td></tr></table>
 - 6：查看改动后的效果，ip addr 命令查看网络信息  
 ![](51.png )  
-
+  
 # 四 配置完成下面进行Xhellk连接  
 - 1：打开Xshell新建一个链接（如图）  
 ![](52.png )   
